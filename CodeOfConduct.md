@@ -9,6 +9,10 @@ The **YOW Dev Slack** should be a safe place for everybody regardless of
 - race
 - age
 - religion
+- mother tongue
+- prefered OS (mobile/desktop)
+- prefered programming language
+- prefered text editor/IDE ;P
 
 As someone who is part of this Slack, you agree that:
 
